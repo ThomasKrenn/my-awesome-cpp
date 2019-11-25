@@ -16,6 +16,8 @@ Blogs:
 Hashing:
 * [Perfect Hashing](http://stevehanov.ca/blog/?id=119) - Throw away the keys: Easy, Minimal Perfect Hashing
 * [gperf](https://www.gnu.org/software/gperf/) - GNU gperf is a perfect hash function generator
+* [Cichelli T.17](http://courses.cs.vt.edu/~cs3114/Fall09/wmcquain/Notes/T17.PerfectHashFunctions.pdf)
+* [OMPH](https://www.ics.uci.edu/~dan/pubs/omphf.pdf) - Finding Succinct Ordered Minimal Perfect Hash Functions
 
 Reflection:
 * [Reflection System InCPP](https://preshing.com/20180116/a-primitive-reflection-system-in-cpp-part-1/) - Reflection System in CPP
