@@ -2,15 +2,15 @@
 My list of awesome C++ (or C) frameworks
 
 Guidelines:
-* [wikipedia CPP11](https://en.wikipedia.org/wiki/C%2B%2B11)  - wikipedia c++11
-* [Struppis FAQ](http://www.stroustrup.com/C++11FAQ.html) - Struppis C++11 FAQ)
+* [Cpp Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines) - Editors: Bjarne Stroustrup, Herb Sutter
 * [FAQ CPP 11](https://isocpp.org/wiki/faq/cpp11)  - FAQ CPP 11
+* [Struppis FAQ](http://www.stroustrup.com/C++11FAQ.html) - Struppis C++11 FAQ)
+* [wikipedia CPP11](https://en.wikipedia.org/wiki/C%2B%2B11)  - wikipedia c++11
 
 Blogs:
 * [The Old New Thing](https://devblogs.microsoft.com/oldnewthing/) - The Old New Thing
 * [Fluent CPP](https://www.fluentcpp.com/posts/) - Fluent CPP
 * [Ariya](https://ariya.io/posts)  - Ariya / PhantomJS 
-* [Cpp Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines) - Editors: Bjarne Stroustrup, Herb Sutter
 * [Awesome CPP on github](https://github.com/fffaraz/awesome-cpp) - Awesome CPP on github
 
 Reflection:
