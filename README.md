@@ -13,6 +13,10 @@ Blogs:
 * [Ariya](https://ariya.io/posts)  - Ariya / PhantomJS 
 * [Awesome CPP on github](https://github.com/fffaraz/awesome-cpp) - Awesome CPP on github
 
+Hashing:
+* [Perfect Hashing](http://stevehanov.ca/blog/?id=119) - Throw away the keys: Easy, Minimal Perfect Hashing
+* [gperf](https://www.gnu.org/software/gperf/) - GNU gperf is a perfect hash function generator
+
 Reflection:
 * [Reflection System InCPP](https://preshing.com/20180116/a-primitive-reflection-system-in-cpp-part-1/) - Reflection System in CPP
 
