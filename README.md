@@ -7,11 +7,11 @@ Guidelines:
 * [Struppis FAQ](http://www.stroustrup.com/C++11FAQ.html) - Struppis C++11 FAQ
 * [wikipedia CPP11](https://en.wikipedia.org/wiki/C%2B%2B11)  - wikipedia c++11
 * [C++ 11 Guide](https://stuartwheaton.com/blog/2020-06-14-c++11-guide/) - Stuart Wheaton Blog
+* [Google Style Guide](https://google.github.io/styleguide/cppguide.html)
 
 Blogs:
 * [The Old New Thing](https://devblogs.microsoft.com/oldnewthing/) - The Old New Thing
 * [Fluent CPP](https://www.fluentcpp.com/posts/) - Fluent CPP
-* [Ariya](https://ariya.io/posts)  - Ariya / PhantomJS 
 * [Awesome CPP on github](https://github.com/fffaraz/awesome-cpp) - Awesome CPP on github
 
 Hashing:
@@ -32,6 +32,7 @@ Headless Browser:
 * [phantomjs](https://phantomjs.org/) - Phantom JS
 * [headless chrome](https://developers.google.com/web/updates/2017/04/headless-chrome) - Headless Chrome
 * [gotenberg](https://thecodingmachine.github.io/gotenberg/)
+* [Ariya](https://ariya.io/posts)  - Ariya / PhantomJS 
 
 Misc:
 * [VS2015](https://blogs.msdn.microsoft.com/vcblog/2015/07/24/setup-changes-in-visual-studio-2015-affecting-c-developers/) - VS 2015 C++
@@ -40,3 +41,7 @@ Misc:
 * [free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#c-1) - free-programming-books
 * [Design Pattern](https://sourcemaking.com/design_patterns) - General repeatable solution to a commonly occurring problem 
 * [gameprogrammingpatterns.com](http://gameprogrammingpatterns.com/contents.html) - gameprogrammingpatterns.com HTML version
+
+Books:
+* [C++ Lambda Story](https://leanpub.com/cpplambda)
+
