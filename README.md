@@ -41,6 +41,7 @@ Misc:
 * [free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#c-1) - free-programming-books
 * [Design Pattern](https://sourcemaking.com/design_patterns) - General repeatable solution to a commonly occurring problem 
 * [gameprogrammingpatterns.com](http://gameprogrammingpatterns.com/contents.html) - gameprogrammingpatterns.com HTML version
+* [C++ UI Review](https://philippegroarke.com/posts/2018/c++_ui_solutions/)
 
 Books:
 * [C++ Lambda Story](https://leanpub.com/cpplambda)
