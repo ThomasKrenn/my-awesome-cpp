@@ -45,4 +45,5 @@ Misc:
 
 Books:
 * [C++ Lambda Story](https://leanpub.com/cpplambda)
+* [Papers We Love](https://github.com/papers-we-love/papers-we-love) - Papers We Love (PWL) is a community built around reading, discussing and learning more about academic computer science papers. 
 
