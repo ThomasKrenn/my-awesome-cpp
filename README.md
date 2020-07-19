@@ -34,6 +34,10 @@ Headless Browser:
 * [gotenberg](https://thecodingmachine.github.io/gotenberg/)
 * [Ariya](https://ariya.io/posts)  - Ariya / PhantomJS 
 
+Testing:
+* [american fuzzy lop](https://github.com/google/AFL) - American Fuzzy Lop is a brute-force fuzz 
+* [Catch2](https://github.com/catchorg/Catch2) Catch2 is a multi-paradigm test framework for C++
+
 Misc:
 * [VS2015](https://blogs.msdn.microsoft.com/vcblog/2015/07/24/setup-changes-in-visual-studio-2015-affecting-c-developers/) - VS 2015 C++
 * [VSStudio Support for 11 14 17](https://msdn.microsoft.com/en-us/library/hh567368.aspx)  - VS Studio Support for C++11-14-17
