@@ -31,6 +31,11 @@ Testing:
 * [american fuzzy lop](https://github.com/google/AFL) - American Fuzzy Lop is a brute-force fuzzer
 * [Catch2](https://github.com/catchorg/Catch2) Catch2 is a multi-paradigm test framework for C++
 
+Text Editing:
+* [Rope](https://en.wikipedia.org/wiki/Rope_(data_structure)) Rope (data structure)
+* [Piece table](https://en.wikipedia.org/wiki/Piece_table) Piece table
+* [Scintilla](https://www.scintilla.org/) Scintilla is a free source code editing component.
+
 Headless Browser:
 * [slimerjs](https://slimerjs.org/) - Slimer JS
 * [phantomjs](https://phantomjs.org/) - Phantom JS
