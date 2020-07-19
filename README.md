@@ -51,9 +51,10 @@ Misc:
 * [gameprogrammingpatterns.com](http://gameprogrammingpatterns.com/contents.html) - gameprogrammingpatterns.com HTML version
 
 UI:
-* [C++ UI Review](https://philippegroarke.com/posts/2018/c++_ui_solutions/)
+* [C++ UI Review](https://philippegroarke.com/posts/2018/c++_ui_solutions/) - Philippe Groarke UI framework review
 
 Books:
+* [AOSA](http://aosabook.org/en/index.html) - The Architecture of Open Source Applications
 * [free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#c-1) - free-programming-books
 * [C++ Lambda Story](https://leanpub.com/cpplambda)
 * [Papers We Love](https://github.com/papers-we-love/papers-we-love) - Papers We Love (PWL) is a community built around reading, discussing and learning more about academic computer science papers. 
