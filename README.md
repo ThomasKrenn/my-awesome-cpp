@@ -26,6 +26,7 @@ Perfect Hashing:
 * [gperf](https://www.gnu.org/software/gperf/) - GNU gperf is a perfect hash function generator
 * [Perfect Hashing](http://stevehanov.ca/blog/?id=119) - Throw away the keys: Easy, Minimal Perfect Hashing
 * [OMPH](https://www.ics.uci.edu/~dan/pubs/omphf.pdf) - Finding Succinct Ordered Minimal Perfect Hash Functions
+* [Minimal Perfect Hashing, Dr. Amjad M Daoud](http://iswsa.acm.org/mphf/index.html) - Selected Perfect Hashing Publications, high impact applications.
 * [Generate PH](https://www.drdobbs.com/architecture-and-design/generating-perfect-hash-functions/184404506) Generating Perfect Hash Functions by Thomas Getty
 
 Reflection:
