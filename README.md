@@ -16,6 +16,10 @@ C++ Compiler Explorer
 * [godbolt.org](https://godbolt.org)
 * [cppinsights.io](https://cppinsights.io)
 
+LLVM
+* [LLVM](https://llvm.org/) - The LLVM Compiler Infrastructure 
+* [clangpowertools](https://www.clangpowertools.com/) - Bringing clang-tidy magic to Visual Studio C++ developers
+
 Blogs:
 * [The Old New Thing](https://devblogs.microsoft.com/oldnewthing/) - The Old New Thing
 * [Fluent CPP](https://www.fluentcpp.com/posts/) - Fluent CPP
