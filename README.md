@@ -5,7 +5,7 @@ Standard and Guidelines :
 * [Cpp Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines) - Editors: Bjarne Stroustrup, Herb Sutter
 * [FAQ CPP 11](https://isocpp.org/wiki/faq/cpp11)  - FAQ CPP 11
 * [Struppis FAQ](http://www.stroustrup.com/C++11FAQ.html) - Struppis C++11 FAQ
-* [cppcon.org](http://cppcon.org/) - CPP Conference
+* [cppcon.org](http://cppcon.org/) - CPP Conference [github.com/CppCon](https://github.com/CppCon)
 * [wikipedia CPP11](https://en.wikipedia.org/wiki/C%2B%2B11)  - wikipedia c++11
 * [C++ 11 Guide](https://stuartwheaton.com/blog/2020-06-14-c++11-guide/) - Stuart Wheaton Blog
 * [Google Style Guide](https://google.github.io/styleguide/cppguide.html)
