@@ -1,7 +1,7 @@
 # my-awesome-cpp
 My list of awesome C++ (or C) resources
 
-Standard and Guidelines :
+Standard and Guidelines
 * [Cpp Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines) - Editors: Bjarne Stroustrup, Herb Sutter
 * [FAQ CPP 11](https://isocpp.org/wiki/faq/cpp11)  - FAQ CPP 11
 * [Struppis FAQ](http://www.stroustrup.com/C++11FAQ.html) - Struppis C++11 FAQ
@@ -11,6 +11,9 @@ Standard and Guidelines :
 * [Google Style Guide](https://google.github.io/styleguide/cppguide.html)
 * [Working Draft, Standard for Programming Language C++](http://eel.is/c++draft/)
 * [C++ Reference Wiki](https://en.cppreference.com) - In case standard is too advanced for your taste.
+
+Cheatsheet
+* [Cheat Sheets](https://hackingcpp.com/cpp/cheat_sheets.html) - CPP Cheat Sheets
 
 C++ Compiler Explorer
 * [godbolt.org](https://godbolt.org)
