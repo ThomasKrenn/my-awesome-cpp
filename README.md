@@ -65,6 +65,7 @@ Misc:
 * [String And Char Literals](https://msdn.microsoft.com/en-us/library/69ze775t.aspx)  - String and Character Literals (C++)
 * [Design Pattern](https://sourcemaking.com/design_patterns) - General repeatable solution to a commonly occurring problem 
 * [gameprogrammingpatterns.com](http://gameprogrammingpatterns.com/contents.html) - gameprogrammingpatterns.com HTML version
+* [Explore C++ on kandi](https://kandi.openweaver.com/explore/c++) - Discover & find a curated list of popular libraries, trending project kits, tutorials & learning resources on kandi.
 
 UI:
 * [C++ UI Review](https://philippegroarke.com/posts/2018/c++_ui_solutions/) - Philippe Groarke UI framework review
