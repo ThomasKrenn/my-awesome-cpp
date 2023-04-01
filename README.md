@@ -65,6 +65,7 @@ Misc:
 * [String And Char Literals](https://msdn.microsoft.com/en-us/library/69ze775t.aspx)  - String and Character Literals (C++)
 * [Design Pattern](https://sourcemaking.com/design_patterns) - General repeatable solution to a commonly occurring problem 
 * [gameprogrammingpatterns.com](http://gameprogrammingpatterns.com/contents.html) - gameprogrammingpatterns.com HTML version
+* [shared/unique_ptr](https://github.com/SRombauts/shared_ptr) - A minimal shared/unique_ptr implementation to handle cases where boost/std::shared/unique_ptr are not available. 
 
 UI:
 * [C++ UI Review](https://philippegroarke.com/posts/2018/c++_ui_solutions/) - Philippe Groarke UI framework review
