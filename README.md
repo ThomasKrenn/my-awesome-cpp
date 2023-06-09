@@ -56,6 +56,7 @@ My list of awesome C++ (or C) resources
 * [Rope](https://en.wikipedia.org/wiki/Rope_(data_structure)) Rope (data structure)
 * [Piece table](https://en.wikipedia.org/wiki/Piece_table) Piece table
 * [Scintilla](https://www.scintilla.org/) Scintilla is a free source code editing component.
+* [Visual Leak Detector](https://github.com/ThomasKrenn/vld) - Visual Leak Detector
 
 ### Headless Browser:
 * [slimerjs](https://slimerjs.org/) - Slimer JS
