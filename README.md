@@ -66,16 +66,19 @@ My list of awesome C++ (or C) resources
 * [Ariya](https://ariya.io/posts)  - Ariya / PhantomJS 
 
 ### Misc:
-* [VS2015](https://blogs.msdn.microsoft.com/vcblog/2015/07/24/setup-changes-in-visual-studio-2015-affecting-c-developers/) - VS 2015 C++
-* [VSStudio Support for 11 14 17](https://msdn.microsoft.com/en-us/library/hh567368.aspx)  - VS Studio Support for C++11-14-17
-* [String And Char Literals](https://msdn.microsoft.com/en-us/library/69ze775t.aspx)  - String and Character Literals (C++)
-* [Design Pattern](https://sourcemaking.com/design_patterns) - General repeatable solution to a commonly occurring problem 
-* [gameprogrammingpatterns.com](http://gameprogrammingpatterns.com/contents.html) - gameprogrammingpatterns.com HTML version
-* [shared/unique_ptr](https://github.com/SRombauts/shared_ptr) - A minimal shared/unique_ptr implementation to handle cases where boost/std::shared/unique_ptr are not available. 
-* [C++11 Args Parser](https://github.com/Taywee/args) - single header C++11 argument parsing library
+ * [VS2015](https://blogs.msdn.microsoft.com/vcblog/2015/07/24/setup-changes-in-visual-studio-2015-affecting-c-developers/) - VS 2015 C++
+ * [VSStudio Support for 11 14 17](https://msdn.microsoft.com/en-us/library/hh567368.aspx)  - VS Studio Support for C++11-14-17
+ * [String And Char Literals](https://msdn.microsoft.com/en-us/library/69ze775t.aspx)  - String and Character Literals (C++)
+ * [Design Pattern](https://sourcemaking.com/design_patterns) - General repeatable solution to a commonly occurring problem 
+ * [gameprogrammingpatterns.com](http://gameprogrammingpatterns.com/contents.html) - gameprogrammingpatterns.com HTML version
+ * [shared/unique_ptr](https://github.com/SRombauts/shared_ptr) - A minimal shared/unique_ptr implementation to handle cases where boost/std::shared/unique_ptr are not available. 
+ * [C++11 Args Parser](https://github.com/Taywee/args) - single header C++11 argument parsing library
+ * [Functional Programming in Modern C++](https://www.youtube.com/watch?v=HE71NqRpvTQ) - Functional Programming in Modern C++: The Imperatives Must Go! - ACCU 2023
+ * [Software optimization resources](https://www.agner.org/optimize/) Software optimization resources - Agner
 
 ### UI:
 * [C++ UI Review](https://philippegroarke.com/posts/2018/c++_ui_solutions/) - Philippe Groarke UI framework review
+* [slint-ui](https://slint-ui.com/) - Fluid UI with 'slint' Markup Language
 
 ### Books:
 * [AOSA](http://aosabook.org/en/index.html) - The Architecture of Open Source Applications
