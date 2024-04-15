@@ -7,7 +7,6 @@ My list of awesome C++ (or C) resources
 * [Struppis FAQ](http://www.stroustrup.com/C++11FAQ.html) - Struppis C++11 FAQ
 * [cppcon.org](http://cppcon.org/) - CPP Conference [github.com/CppCon](https://github.com/CppCon)
 * [wikipedia CPP11](https://en.wikipedia.org/wiki/C%2B%2B11)  - wikipedia c++11
-* [C++ 11 Guide](https://stuartwheaton.com/blog/2020-06-14-c++11-guide/) - Stuart Wheaton Blog
 * [Google Style Guide](https://google.github.io/styleguide/cppguide.html)
 * [Working Draft, Standard for Programming Language C++](http://eel.is/c++draft/)
 * [C++ Reference Wiki](https://en.cppreference.com) - In case the standard is too advanced for your taste.
@@ -30,6 +29,7 @@ My list of awesome C++ (or C) resources
 * [Fluent CPP](https://www.fluentcpp.com/posts/) - Fluent CPP
 * [Sandor Dargo Blog](https://www.sandordargo.com/archives/) - On CPP, Software and Development
 * [Daniel Lemire](https://github.com/lemire) - Science professor in the Data Science Laboratory at the Université du Québec 
+* [C++ 11 Guide](https://stuartwheaton.com/blog/2020-06-14-c++11-guide/) - Stuart Wheaton Blog
 
 ### Perfect Hashing:
 * [Cichelli T.17](http://courses.cs.vt.edu/~cs3114/Fall09/wmcquain/Notes/T17.PerfectHashFunctions.pdf) - Cichelli’s Method
@@ -55,10 +55,11 @@ My list of awesome C++ (or C) resources
 * [Catch2](https://github.com/catchorg/Catch2) Catch2 is a multi-paradigm test framework for C++
 * [Visual Leak Detector](https://github.com/ThomasKrenn/vld) - Visual Leak Detector
 
-### Text Editing:
+### Text Editing and Rendering:
 * [Rope](https://en.wikipedia.org/wiki/Rope_(data_structure)) Rope (data structure)
 * [Piece table](https://en.wikipedia.org/wiki/Piece_table) Piece table
 * [Scintilla](https://www.scintilla.org/) Scintilla is a free source code editing component.
+* [Coding Adventure: Rendering Text](https://www.youtube.com/watch?v=SO83KQuuZvg)
 
 ### Headless Browser:
 * [slimerjs](https://slimerjs.org/) - Slimer JS
@@ -83,6 +84,7 @@ My list of awesome C++ (or C) resources
 
 ### UI:
 * [C++ UI Review](https://philippegroarke.com/posts/2018/c++_ui_solutions/) - Philippe Groarke UI framework review
+* [LVGL](https://lvgl.io/)
 * [slint-ui](https://slint-ui.com/) - Fluid UI with 'slint' Markup Language
 * [Win32 with utf-8](https://github.com/alf-p-steinbach/winapi) - Minimal C++ support for the Windows API with UTF-8 text
 
