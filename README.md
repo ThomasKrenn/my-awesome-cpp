@@ -16,18 +16,20 @@ My list of awesome C++ (or C) resources
 * [Cheat Sheets](https://hackingcpp.com/cpp/cheat_sheets.html) - CPP Cheat Sheets
 
 ### C++ Compiler Explorer
+* [cppinsights.io](https://cppinsights.io) - C++ Insights - See your source code with the eyes of a compiler. 
+* [compiler-explorer.com](https://compiler-explorer.com) - Compiler Explorer is an interactive online compiler which shows the assembly output of compiled C++, Rust, Go (and many more) code.
 * [godbolt.org](https://godbolt.org)
-* [cppinsights.io](https://cppinsights.io)
 
 ### LLVM
 * [LLVM](https://llvm.org/) - The LLVM Compiler Infrastructure 
 * [clangpowertools](https://www.clangpowertools.com/) - Bringing clang-tidy magic to Visual Studio C++ developers
 
 ### Blogs:
+* [Herb Sutter](https://herbsutter.com/) - Sutter’s Mill
 * [The Old New Thing](https://devblogs.microsoft.com/oldnewthing/) - The Old New Thing
 * [Fluent CPP](https://www.fluentcpp.com/posts/) - Fluent CPP
-* [Awesome CPP on github](https://github.com/fffaraz/awesome-cpp) - Awesome CPP on github
 * [Sandor Dargo Blog](https://www.sandordargo.com/archives/) - On CPP, Software and Development
+* [Daniel Lemire](https://github.com/lemire) - Science professor in the Data Science Laboratory at the Université du Québec 
 
 ### Perfect Hashing:
 * [Cichelli T.17](http://courses.cs.vt.edu/~cs3114/Fall09/wmcquain/Notes/T17.PerfectHashFunctions.pdf) - Cichelli’s Method
@@ -65,23 +67,32 @@ My list of awesome C++ (or C) resources
 * [gotenberg](https://thecodingmachine.github.io/gotenberg/)
 * [Ariya](https://ariya.io/posts)  - Ariya / PhantomJS 
 
+### SIMD
+* [Software optimization resources](https://www.agner.org/optimize/) - Software optimization resources - Agner
+* [SimSIMD](https://github.com/ashvardanian/SimSIMD) - Fast Vector Similarity Functions
+
 ### Misc:
- * [VS2015](https://blogs.msdn.microsoft.com/vcblog/2015/07/24/setup-changes-in-visual-studio-2015-affecting-c-developers/) - VS 2015 C++
- * [VSStudio Support for 11 14 17](https://msdn.microsoft.com/en-us/library/hh567368.aspx)  - VS Studio Support for C++11-14-17
- * [String And Char Literals](https://msdn.microsoft.com/en-us/library/69ze775t.aspx)  - String and Character Literals (C++)
- * [Design Pattern](https://sourcemaking.com/design_patterns) - General repeatable solution to a commonly occurring problem 
- * [gameprogrammingpatterns.com](http://gameprogrammingpatterns.com/contents.html) - gameprogrammingpatterns.com HTML version
- * [shared/unique_ptr](https://github.com/SRombauts/shared_ptr) - A minimal shared/unique_ptr implementation to handle cases where boost/std::shared/unique_ptr are not available. 
- * [C++11 Args Parser](https://github.com/Taywee/args) - single header C++11 argument parsing library
- * [Functional Programming in Modern C++](https://www.youtube.com/watch?v=HE71NqRpvTQ) - Functional Programming in Modern C++: The Imperatives Must Go! - ACCU 2023
- * [Software optimization resources](https://www.agner.org/optimize/) Software optimization resources - Agner
+* [VS2015](https://blogs.msdn.microsoft.com/vcblog/2015/07/24/setup-changes-in-visual-studio-2015-affecting-c-developers/) - VS 2015 C++
+* [VSStudio Support for 11 14 17](https://msdn.microsoft.com/en-us/library/hh567368.aspx)  - VS Studio Support for C++11-14-17
+* [String And Char Literals](https://msdn.microsoft.com/en-us/library/69ze775t.aspx)  - String and Character Literals (C++)
+* [Awesome CPP on github](https://github.com/fffaraz/awesome-cpp) - Awesome CPP on github 
+* [Design Pattern](https://sourcemaking.com/design_patterns) - General repeatable solution to a commonly occurring problem 
+* [gameprogrammingpatterns.com](http://gameprogrammingpatterns.com/contents.html) - gameprogrammingpatterns.com HTML version
+* [Functional Programming in Modern C++](https://www.youtube.com/watch?v=HE71NqRpvTQ) - Functional Programming in Modern C++: The Imperatives Must Go! - ACCU 2023 
+ 
 
 ### UI:
 * [C++ UI Review](https://philippegroarke.com/posts/2018/c++_ui_solutions/) - Philippe Groarke UI framework review
 * [slint-ui](https://slint-ui.com/) - Fluid UI with 'slint' Markup Language
+* [Win32 with utf-8](https://github.com/alf-p-steinbach/winapi) - Minimal C++ support for the Windows API with UTF-8 text
 
 ### Books:
 * [AOSA](http://aosabook.org/en/index.html) - The Architecture of Open Source Applications
 * [free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#c-1) - free-programming-books
 * [C++ Lambda Story](https://leanpub.com/cpplambda)
 * [Papers We Love](https://github.com/papers-we-love/papers-we-love) - Papers We Love (PWL) is a community built around reading, discussing and learning more about academic computer science papers. 
+
+## Some github repos
+* [Function Wrapper](https://github.com/pmed/fixed_size_function) - Fixed size function wrapper like std::function to avoid dynamic memory allocation.
+* [shared/unique_ptr](https://github.com/SRombauts/shared_ptr) - A minimal shared/unique_ptr implementation to handle cases where boost/std::shared/unique_ptr are not available.
+
