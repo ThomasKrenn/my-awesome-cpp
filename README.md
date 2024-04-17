@@ -1,4 +1,5 @@
 # My list of awesome C++ (or C) resources [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 My list of awesome C++ (or C) resources
 
 ### Standard and Guidelines
@@ -79,22 +80,23 @@ My list of awesome C++ (or C) resources
 * [Awesome CPP on github](https://github.com/fffaraz/awesome-cpp) - Awesome CPP on github 
 * [Design Pattern](https://sourcemaking.com/design_patterns) - General repeatable solution to a commonly occurring problem 
 * [gameprogrammingpatterns.com](http://gameprogrammingpatterns.com/contents.html) - gameprogrammingpatterns.com HTML version
-* [Functional Programming in Modern C++](https://www.youtube.com/watch?v=HE71NqRpvTQ) - Functional Programming in Modern C++: The Imperatives Must Go! - ACCU 2023 
+* [Functional Programming in Modern C++](https://www.youtube.com/watch?v=HE71NqRpvTQ) - Functional Programming in Modern C++: The Imperatives Must Go! - ACCU 2023
+* [Custom Iterators](https://internalpointers.com/post/writing-custom-iterators-modern-cpp) - Custom Iterators
  
-
 ### UI:
 * [C++ UI Review](https://philippegroarke.com/posts/2018/c++_ui_solutions/) - Philippe Groarke UI framework review
 * [LVGL](https://lvgl.io/)
-* [slint-ui](https://slint-ui.com/) - Fluid UI with 'slint' Markup Language
+* [slint-ui](https://slint-ui.com/) - Fluid UI with 'slint' Markup Language (Rust library with C++ bindings)
 * [Win32 with utf-8](https://github.com/alf-p-steinbach/winapi) - Minimal C++ support for the Windows API with UTF-8 text
 
-### Books:
+### Books and Papers:
 * [AOSA](http://aosabook.org/en/index.html) - The Architecture of Open Source Applications
 * [free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#c-1) - free-programming-books
 * [C++ Lambda Story](https://leanpub.com/cpplambda)
 * [Papers We Love](https://github.com/papers-we-love/papers-we-love) - Papers We Love (PWL) is a community built around reading, discussing and learning more about academic computer science papers. 
 
-## Some github repos
+### Some GITHUB Repos
+* [TAO](https://taocpp.github.io/) TAO - The Art of C++ - A collection of high-quality C++ libraries
 * [Function Wrapper](https://github.com/pmed/fixed_size_function) - Fixed size function wrapper like std::function to avoid dynamic memory allocation.
 * [shared/unique_ptr](https://github.com/SRombauts/shared_ptr) - A minimal shared/unique_ptr implementation to handle cases where boost/std::shared/unique_ptr are not available.
 
